@@ -1,0 +1,42 @@
+[
+    {
+        "Date": "2025-11-19",
+        "Buying_rate": 4.2017,
+        "Selling_rate": 4.2865
+    },
+    {
+        "Date": "2025-11-20",
+        "Buying_rate": 4.1814,
+        "Selling_rate": 4.2658
+    },
+    {
+        "Date": "2025-11-21",
+        "Buying_rate": 4.1892,
+        "Selling_rate": 4.2738
+    },
+    {
+        "Date": "2025-11-24",
+        "Buying_rate": 4.2038,
+        "Selling_rate": 4.2888
+    },
+    {
+        "Date": "2025-11-25",
+        "Buying_rate": 4.1899,
+        "Selling_rate": 4.2745
+    },
+    {
+        "Date": "2025-11-26",
+        "Buying_rate": 4.1904,
+        "Selling_rate": 4.275
+    },
+    {
+        "Date": "2025-11-27",
+        "Buying_rate": 4.1929,
+        "Selling_rate": 4.2777
+    },
+    {
+        "Date": "2025-11-28",
+        "Buying_rate": 4.1907,
+        "Selling_rate": 4.2753
+    }
+]
